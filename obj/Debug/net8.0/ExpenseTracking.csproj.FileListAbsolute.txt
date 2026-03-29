@@ -28,3 +28,14 @@
 /Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/obj/Debug/net8.0/ExpenseTracking.pdb
 /Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/obj/Debug/net8.0/ExpenseTracking.genruntimeconfig.cache
 /Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/obj/Debug/net8.0/ref/ExpenseTracking.dll
+/Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/obj/Debug/net8.0/ExpenseTracking.csproj.AssemblyReference.cache
+/Users/buttuxama/Documents/ExpenseTracking/ExpenseTracking/obj/Debug/net8.0/ExpenseT.8C01674B.Up2Date
