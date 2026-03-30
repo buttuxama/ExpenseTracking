@@ -1,4 +1,4 @@
-# Expense Tracking Application
+# ExpenseTracking
 
 A simple and intuitive web application for tracking and managing personal expenses. Built with ASP.NET Core MVC and modern web technologies.
 
@@ -44,31 +44,6 @@ ExpenseTracking/
 - .NET 8.0 SDK or later
 - A text editor or IDE (Visual Studio, Visual Studio Code, etc.)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd ExpenseTracking
-   ```
-
-2. Restore dependencies:
-   ```bash
-   dotnet restore
-   ```
-
-3. Build the application:
-   ```bash
-   dotnet build
-   ```
-
-4. Run the application:
-   ```bash
-   dotnet run
-   ```
-
-The application will start on `https://localhost:7XXX` (check console for exact port).
-
 ## Usage
 
 1. Open your browser and navigate to the application URL
@@ -90,15 +65,6 @@ public class Expense
     public string Description { get; set; }
 }
 ```
-
-## API Endpoints
-
-- `GET /` - Home page
-- `GET /Home/Expenses` - View all expenses with total sum
-- `GET /Home/CreateEditExpense/{id?}` - Form to create or edit an expense
-- `POST /Home/CreateEditExpense` - Save expense
-- `GET /Home/DeleteExpense/{id}` - Delete an expense
-- `GET /Home/Privacy` - Privacy policy page
 
 ## Configuration
 
