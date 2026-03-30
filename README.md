@@ -66,6 +66,14 @@ public class Expense
 }
 ```
 
+## API Endpoints
+
+- `GET /` - Home page
+- `GET /Home/Expenses` - View all expenses with total sum
+- `GET /Home/CreateEditExpense/{id?}` - Form to create or edit an expense
+- `POST /Home/CreateEditExpense` - Save expense
+- `GET /Home/DeleteExpense/{id}` - Delete an expense
+
 ## Configuration
 
 ### Database
